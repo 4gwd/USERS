@@ -1,1 +1,0 @@
-worker: bash fafthon.py
